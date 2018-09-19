@@ -6,9 +6,9 @@
 //  Copyright © 2018年 S.U.N. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
-@interface ViewController : UIViewController
+@interface LKViewController : UITableViewController
 
 
 @end
