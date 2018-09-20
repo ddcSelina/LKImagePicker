@@ -6,13 +6,13 @@
 //  Copyright © 2018年 S.U.N. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "LKViewController.h"
 
-@interface ViewController ()
+@interface LKViewController ()
 
 @end
 
-@implementation ViewController
+@implementation LKViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
